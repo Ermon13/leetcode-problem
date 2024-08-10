@@ -62,3 +62,15 @@ problem_category/
 
 By following these guidelines, you can create a well-organized and informative repository for your LeetCode solutions.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
