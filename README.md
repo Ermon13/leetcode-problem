@@ -81,4 +81,12 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
