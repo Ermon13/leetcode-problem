@@ -69,6 +69,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
