@@ -81,6 +81,7 @@ By following these guidelines, you can create a well-organized and informative r
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Ermon13/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ermon13/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
