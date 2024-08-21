@@ -69,11 +69,13 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Ermon13/leetcode-problem/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ermon13/leetcode-problem/tree/master/2556-convert-the-temperature) |
 ## Binary Search
@@ -110,4 +113,8 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Ermon13/leetcode-problem/tree/master/2491-smallest-even-multiple) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
