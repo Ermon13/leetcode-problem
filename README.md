@@ -90,6 +90,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
+| [2556-convert-the-temperature](https://github.com/Ermon13/leetcode-problem/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
