@@ -83,6 +83,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ermon13/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ermon13/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
@@ -90,6 +91,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/Ermon13/leetcode-problem/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
@@ -99,4 +101,8 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
