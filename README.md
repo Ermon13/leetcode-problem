@@ -87,6 +87,7 @@ By following these guidelines, you can create a well-organized and informative r
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ermon13/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ermon13/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
@@ -127,4 +128,8 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ermon13/leetcode-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
