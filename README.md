@@ -94,6 +94,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ermon13/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Ermon13/leetcode-problem/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ermon13/leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -136,4 +137,5 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ermon13/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Ermon13/leetcode-problem/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ermon13/leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
