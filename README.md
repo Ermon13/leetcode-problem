@@ -82,6 +82,7 @@ By following these guidelines, you can create a well-organized and informative r
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ermon13/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Ermon13/leetcode-problem/tree/master/0874-backspace-string-compare) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
@@ -90,6 +91,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ermon13/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ermon13/leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Ermon13/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ermon13/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
