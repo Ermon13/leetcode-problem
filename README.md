@@ -69,6 +69,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/Ermon13/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -78,6 +79,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
@@ -130,6 +132,7 @@ By following these guidelines, you can create a well-organized and informative r
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 ## Enumeration
 |  |
@@ -146,4 +149,12 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ermon13/leetcode-problem/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
