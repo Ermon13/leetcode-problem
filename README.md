@@ -108,6 +108,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ermon13/leetcode-problem/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Ermon13/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Ermon13/leetcode-problem/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Ermon13/leetcode-problem/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ermon13/leetcode-problem/tree/master/2556-convert-the-temperature) |
@@ -119,6 +120,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ermon13/leetcode-problem/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Ermon13/leetcode-problem/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +159,12 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ermon13/leetcode-problem/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ermon13/leetcode-problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
