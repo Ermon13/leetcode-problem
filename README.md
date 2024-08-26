@@ -85,6 +85,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ermon13/leetcode-problem/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Ermon13/leetcode-problem/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ermon13/leetcode-problem/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Ermon13/leetcode-problem/tree/master/2427-first-letter-to-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,4 +181,8 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ermon13/leetcode-problem/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Ermon13/leetcode-problem/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
