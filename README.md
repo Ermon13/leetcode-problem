@@ -73,6 +73,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ermon13/leetcode-problem/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/Ermon13/leetcode-problem/tree/master/0739-daily-temperatures) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -82,6 +83,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0001-two-sum](https://github.com/Ermon13/leetcode-problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
@@ -141,6 +143,7 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 ## Enumeration
 |  |
@@ -166,6 +169,7 @@ By following these guidelines, you can create a well-organized and informative r
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ermon13/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
