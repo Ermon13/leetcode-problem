@@ -88,6 +88,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0125-valid-palindrome](https://github.com/Ermon13/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ermon13/leetcode-problem/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Ermon13/leetcode-problem/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Ermon13/leetcode-problem/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
@@ -101,6 +102,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0874-backspace-string-compare](https://github.com/Ermon13/leetcode-problem/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ermon13/leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/Ermon13/leetcode-problem/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
