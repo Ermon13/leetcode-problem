@@ -79,6 +79,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ermon13/leetcode-problem/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/Ermon13/leetcode-problem/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,4 +198,5 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Ermon13/leetcode-problem/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Ermon13/leetcode-problem/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
