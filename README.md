@@ -74,6 +74,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0283-move-zeroes](https://github.com/Ermon13/leetcode-problem/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/Ermon13/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/Ermon13/leetcode-problem/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ermon13/leetcode-problem/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ermon13/leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ermon13/leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -192,4 +193,8 @@ By following these guidelines, you can create a well-organized and informative r
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ermon13/leetcode-problem/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Ermon13/leetcode-problem/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
