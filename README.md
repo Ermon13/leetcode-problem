@@ -72,6 +72,7 @@ By following these guidelines, you can create a well-organized and informative r
 | [0088-merge-sorted-array](https://github.com/Ermon13/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ermon13/leetcode-problem/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ermon13/leetcode-problem/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Ermon13/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/Ermon13/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ermon13/leetcode-problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Ermon13/leetcode-problem/tree/master/1603-running-sum-of-1d-array) |
@@ -197,6 +198,11 @@ By following these guidelines, you can create a well-organized and informative r
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ermon13/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Ermon13/leetcode-problem/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Ermon13/leetcode-problem/tree/master/2714-left-and-right-sum-differences) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ermon13/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
